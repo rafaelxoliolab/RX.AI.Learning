@@ -7,7 +7,7 @@ Repository created for helping others to learn about AI
 
 AI Chatbot developed by OpenAI that uses LLM(Large Language Model)(like GPT-5)
 
-Go to [chatgpt.com](https://chatgpt.com/)
+- Go to [chatgpt.com](https://chatgpt.com/)
 
 <img width="956" height="515" alt="image" src="https://github.com/user-attachments/assets/85f12986-7592-41ec-be63-2050e87ef693" />
 
@@ -19,8 +19,8 @@ Go to [chatgpt.com](https://chatgpt.com/)
 
 ## Claude AI
 
-Go to [claude.ai](https://claude.ai/)
-[Code Documentation](https://code.claude.com/docs)
+- Go to [claude.ai](https://claude.ai/)
+- [Code Documentation](https://code.claude.com/docs)
 
 <img width="662" height="239" alt="image" src="https://github.com/user-attachments/assets/03a5af1d-1604-42ba-8b3c-2fc8645f2582" />
 
@@ -33,6 +33,23 @@ Go to [claude.ai](https://claude.ai/)
 <img width="808" height="484" alt="image" src="https://github.com/user-attachments/assets/f13e83ff-2230-42b0-8726-ee173e2c3d56" />
 
 
+- Claude can not generate images onle search on the web
+<img width="692" height="512" alt="image" src="https://github.com/user-attachments/assets/ea38e417-99b6-4106-88a7-5bc9f4e1815b" />
+
+## Gemini
+- Gemini uses your gmail accounts by default
+- Go to [gemini](https://gemini.google.com/)
+
+<img width="954" height="512" alt="image" src="https://github.com/user-attachments/assets/58d2b888-7fe8-47ea-bdcc-2c99010f1c2e" />
+
+<img width="885" height="494" alt="image" src="https://github.com/user-attachments/assets/f8c820a1-6151-4762-8f2f-eb8b7f4009f3" />
+
+
+## Grok
+https://grok.com/
+
+## Perplexity
+https://www.perplexity.ai/
 
 
 
