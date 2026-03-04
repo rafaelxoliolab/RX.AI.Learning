@@ -38,7 +38,7 @@ AI Chatbot developed by OpenAI that uses LLM(Large Language Model)(like GPT-5)
 
 ## Gemini
 - Gemini uses your gmail accounts by default
-- Go to [gemini](https://gemini.google.com/)
+- Go to [gemini.google.com](https://gemini.google.com/)
 
 <img width="954" height="512" alt="image" src="https://github.com/user-attachments/assets/58d2b888-7fe8-47ea-bdcc-2c99010f1c2e" />
 
